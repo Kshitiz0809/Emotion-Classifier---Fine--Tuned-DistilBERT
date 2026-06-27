@@ -4,6 +4,10 @@ Fine-tunes `distilbert-base-uncased` on the [dair-ai/emotion](https://huggingfac
 to classify text into six emotions: **sadness, joy, love, anger, fear, surprise**. Trained with the Hugging Face
 `Trainer`, published to the Hugging Face Hub, and served via a Gradio demo.
 
+**Model on Hugging Face Hub:** [KshitizSharma/distilbert-emotion](https://huggingface.co/KshitizSharma/distilbert-emotion)
+
+**Test set results:** F1 (weighted) = 0.925, accuracy = 0.925
+
 ## Setup
 
 ```bash
