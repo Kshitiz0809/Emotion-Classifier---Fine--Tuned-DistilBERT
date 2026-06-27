@@ -6,3 +6,5 @@ distilbert-emotion/
 *.log
 .ipynb_checkpoints/
 .env
+train_log.txt
+.claude/
