@@ -6,6 +6,8 @@ to classify text into six emotions: **sadness, joy, love, anger, fear, surprise*
 
 **Model on Hugging Face Hub:** [KshitizSharma/distilbert-emotion](https://huggingface.co/KshitizSharma/distilbert-emotion)
 
+**Live demo:** [KshitizSharma/emotion-classifier-demo](https://huggingface.co/spaces/KshitizSharma/emotion-classifier-demo)
+
 **Test set results:** F1 (weighted) = 0.925, accuracy = 0.925
 
 ## Setup
